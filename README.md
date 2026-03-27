@@ -49,6 +49,12 @@ The `example videos/` folder contains short, compressed clips illustrating the h
 
 ---
 
+## Repository
+
+[https://github.com/YueCaoUKY/Molten-Pool-Flow-Detection-via-PINN](https://github.com/YueCaoUKY/Molten-Pool-Flow-Detection-via-PINN)
+
+---
+
 ## Citation
 
 If you use this code, please cite the paper once published.
